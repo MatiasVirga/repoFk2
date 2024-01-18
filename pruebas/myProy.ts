@@ -139,7 +139,7 @@ miAuto.modelo=2018; //con esto puedo cambiar los valores que tiene adentro el ob
 console.log(modeloAuto)
 console.log("El dueño del auto es: " + miAuto.dueno.apellido)  //puedo llamar al objeto dentro del otro objeto
 
-
+//ENCAPSULAR EN FUNCION, sin console log y cuando llamamos sin () y sin ; 
 
 
 
